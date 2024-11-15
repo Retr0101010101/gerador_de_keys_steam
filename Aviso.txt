@@ -1,0 +1,5 @@
+Aviso Legal
+Este projeto é destinado exclusivamente para fins educacionais,com o objetivo de demonstrar técnicas de programação relacionadas à geração de chaves.
+Não é afiliado, endossado ou conectado à Valve Corporation ou à Steam.
+O uso desta ferramenta para quaisquer fins ilegais ou não autorizados é estritamente proibido.
+Sempre respeite os termos de serviço das plataformas e os direitos de propriedade intelectual.

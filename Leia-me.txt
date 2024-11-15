@@ -1,0 +1,9 @@
+Funcionalidades
+Geração de formatos de keys aleatórias baseados na estrutura geral de chaves da Steam.
+Validação de chaves geradas usando algoritmos básicos de checksum.
+Demonstra a importância da distribuição segura de chaves.
+
+Como Usar
+1-Clone este repositório.
+2-Instale as dependências necessárias.
+3-Execute o script para gerar formatos de chaves aleatórias para fins de teste.
